@@ -1,0 +1,12 @@
+node_modules/
+build/
+dist/
+.DS_Store
+*.iml
+*.DS_Store
+*.yarn-integrity
+*.yarn-metadata.json
+yarn-error.log
+yarn.lock
+package-lock.json
+electron-builder.env
